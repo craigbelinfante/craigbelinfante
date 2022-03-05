@@ -1,4 +1,4 @@
-I am an iOS Developer graduate of Bloom Institute of Technology. I like to work on applications that I am passionate about involving new ideas and code. I enjoy , sports, movies, media, healthcare, and finance. 📺🏀😁
+I am an iOS Developer graduate of Bloom Institute of Technology. I like to work on applications that I am passionate about involving new ideas and code. I enjoy sports, movies, media, healthcare, and finance. 📺🏀😁
 
 🔭 I’m currently working on my own applications\
 📱 I worked on Scribble Stadium https://www.storysquad.education \
