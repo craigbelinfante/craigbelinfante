@@ -5,5 +5,4 @@ I am an iOS Developer graduate of Bloom Institute of Technology. I like to work 
 🌱 I studied Swift, SwiftUI, Objective-C, and Python 3  
 📚 I’m currently studying creative writing and Blockchain Development \
 🤝 I’m open to collaborating on new mobile applications  
-💬 Ask me about my education and projects  
-📫 How to reach me: craigbelinfante@gmail.com
+💬 Ask me about my education and projects 
